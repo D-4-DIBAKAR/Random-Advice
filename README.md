@@ -12,10 +12,6 @@ Meet *Serendipity Sage*, your pocket helper! This app gives you quick advice whe
 ![App Screenshot](https://github.com/D-4-DIBAKAR/Random-Advice/assets/71878062/ae52762a-fdef-44ee-9c97-fbb5593df1b7)
 
 
-## Deployed at :
-https://github.com/D-4-DIBAKAR/Random-Advice
-
-
 ## Authors
 
 - [@ D-4-DIBAKAR](https://github.com/D-4-DIBAKAR)
